@@ -11,5 +11,5 @@ let personalMoveDB = {
 /**фвмывамыуам */
 let lastFilms = window.prompt("Посел фильм" ,"0");
 let countFilms = window.prompt("оцени" ,"0");
-
+/**фвмывамыуам */
 personalMoveDB.movies[lastFilms] = countFilms;
