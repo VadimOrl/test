@@ -8,7 +8,7 @@ let personalMoveDB = {
   genres: [],
   private: false
 };
-
+/**фвмывамыуам */
 let lastFilms = window.prompt("Посел фильм" ,"0");
 let countFilms = window.prompt("оцени" ,"0");
 
