@@ -1,6 +1,6 @@
 let numberOfFilms = window.prompt("Сколько фильмов" ,"0")
 
-
+/* не понятно что да как */
 let personalMoveDB = {
   count:numberOfFilms,
   movies: {},
